@@ -104,7 +104,7 @@
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
   "parentColumnSpace": 12.32666015625,
-  "parentId": "wdwoppvpq0",
+  "parentId": "r9uyoi4ax9",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
@@ -122,7 +122,7 @@
   "topRow": 15,
   "type": "CHART_WIDGET",
   "version": 1,
-  "widgetId": "fdzx6nssuh",
+  "widgetId": "2c43rhz7mq",
   "widgetName": "Chart1",
   "xAxisName": "Product Line",
   "yAxisName": "Revenue($)"
